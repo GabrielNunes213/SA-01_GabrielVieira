@@ -1,0 +1,243 @@
+* {
+    margin: 0%;
+}
+
+.menucima {
+    background-color: black;
+    width: 100%;
+    height: 60px;
+}
+
+.entreomenu {
+    background-color: #DCDCDC;
+    width: 100%;
+    height: 110px;
+}
+
+.menubaixo {
+    background-color: #062a7e;
+    width: 100%;
+    height: 60px;
+}
+
+.conteudo {
+    background-color: #DCDCDC;
+}
+
+#partecimatxt {
+    color: white;
+    font-size: 30px;
+    padding-left: 610px;
+    padding-top: 11px;
+}
+
+#partecimatxtsobre {
+    color: white;
+    font-size: 30px;
+    padding-left: 760px;
+    padding-top: 11px;
+}
+
+#partecimatxtcontato {
+    color: white;
+    font-size: 30px;
+    padding-left: 750px;
+    padding-top: 11px;
+}
+
+#entremenutxt {
+    font-size: 30px;
+    padding-left: 660px;
+    padding-top: 10px;
+}
+
+#entremenutxt2 {
+    color: #062a7e;
+    font-size: 30px;
+    padding-left: 700px;
+    padding-top: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding-top: 10px;
+    margin-left: 558px;
+}
+
+#txtli1 {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding-right: 50px;
+}
+
+#txtli2 {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding-right: 50px;
+}
+
+#txtli3 {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding-right: 50px;
+}
+
+#produto1 {
+    background-image: url("../images/kit_embreagem_cg-removebg-preview.png");
+    width: 500px;
+    height: 480px;
+    margin-left: 540px;
+}
+
+#produto2 {
+    background-image: url("../images/pastilhaxre-removebg-preview.png");
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 460px;
+    margin-left: 580px;
+    margin-top: 30px;
+}
+
+#produto1desc {
+     margin-left: 520px;
+     font-size: 30px;
+     font-style: oblique;
+}
+
+#produto1prec {
+    margin-left: 750px;
+    font-size: 30px;
+}
+
+#botaocomprar1 {
+    background-color: #062a7e;
+    width: 80px;
+    margin-left: 768px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#comprar1bt {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 1mm;
+}
+
+#produto2desc {
+    margin-left: 490px;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#produto2prec {
+   margin-left: 750px;
+   font-size: 30px;
+}
+
+#botaocomprar2 {
+    background-color: #062a7e;
+    width: 80px;
+    margin-left: 768px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#comprar2bt {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 1mm;
+}
+
+#produto3 {
+    background-image: url("../images/bateria.png");
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+    margin-left: 580px;
+    margin-top: 30px;
+}
+
+#produto3desc {
+    margin-left: 610px;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#produto3prec {
+   margin-left: 730px;
+   font-size: 30px;
+}
+
+#botaocomprar3 {
+    background-color: #062a7e;
+    width: 80px;
+    margin-left: 768px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+#comprar3bt {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 1mm;
+}
+
+.rodape {
+    background-color: #062a7e;
+    width: 100%;
+    height: 100px;
+    padding-top: 80px;
+}
+
+#txtrodape {
+    color: white;
+    font-size: 30px;
+    padding-left: 590px;
+}
+
+#txth1 {
+    padding-top: 23px;
+}
+
+#formconfig{
+    margin-top: 40px;
+    margin-left: 600px;
+}
+
+.conteudocontato {
+    background-color: #DCDCDC;
+    height: 350px;
+    width: 100%;
+}
+
+#enviar {
+    margin-left: 130px;
+}
+
+.conteudosobre {
+    background-color: #DCDCDC;
+    height: 350px;
+    width: 100%;
+}
+
+#sobre {
+    font-size: 40px;
+    margin-left: 750px;
+    padding-top: 30px;
+}
+
+#sobretxt {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 100px;
+}
